@@ -1,1 +1,1 @@
-# bootcamp-assignment-1
+In this assignement, i was asked to commute certain values. Needed to find out the the yearly change between each ticker, percentage cahnge and total stock volume. I was able to commute this using various codes. The codes shown us the greatest increase and decrease with each ticker.
